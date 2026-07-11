@@ -12,4 +12,4 @@
 - Enjoy Skidding
 
 # Contact
-- Discord | lwitttlebunni
+- Discord | sys.call.
